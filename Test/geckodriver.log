@@ -1,0 +1,61 @@
+1652355399347	geckodriver	INFO	Listening on 127.0.0.1:53144
+1652355402409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SESA24~1\\AppData\\Local\\Temp\\rust_mozprofileVgq7zO"
+1652355402787	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SESA24~1\\AppData\\Local\\Temp\\rust_mozprofileVgq7zO\\search.json.mozlz4", (void 0)))
+1652355404091	Marionette	INFO	Listening on port 53167
+Read port: 53167
+1652355404179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652355406225	Marionette	INFO	Stopped listening on port 53167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652355617033	geckodriver	INFO	Listening on 127.0.0.1:53436
+1652355620074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SESA24~1\\AppData\\Local\\Temp\\rust_mozprofileJkMbKZ"
+1652355620438	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SESA24~1\\AppData\\Local\\Temp\\rust_mozprofileJkMbKZ\\search.json.mozlz4", (void 0)))
+1652355621760	Marionette	INFO	Listening on port 53466
+Read port: 53466
+1652355621860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652355621928	Marionette	INFO	Stopped listening on port 53466
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652355752247	geckodriver	INFO	Listening on 127.0.0.1:53659
+1652355755311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SESA24~1\\AppData\\Local\\Temp\\rust_mozprofile0QIV3N"
+1652355755700	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SESA24~1\\AppData\\Local\\Temp\\rust_mozprofile0QIV3N\\search.json.mozlz4", (void 0)))
+1652355757057	Marionette	INFO	Listening on port 53688
+Read port: 53688
+1652355757080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652355757106	Marionette	INFO	Stopped listening on port 53688
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652355943893	geckodriver	INFO	Listening on 127.0.0.1:54073
+1652355946945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SESA24~1\\AppData\\Local\\Temp\\rust_mozprofileS46rfx"
+1652355947309	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SESA24~1\\AppData\\Local\\Temp\\rust_mozprofileS46rfx\\search.json.mozlz4", (void 0)))
+1652355948592	Marionette	INFO	Listening on port 54104
+Read port: 54104
+1652355948619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652355948664	Marionette	INFO	Stopped listening on port 54104
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652356029575	geckodriver	INFO	Listening on 127.0.0.1:54247
+1652356032658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SESA24~1\\AppData\\Local\\Temp\\rust_mozprofileesrdn8"
+1652356033025	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SESA24~1\\AppData\\Local\\Temp\\rust_mozprofileesrdn8\\search.json.mozlz4", (void 0)))
+1652356034342	Marionette	INFO	Listening on port 54275
+Read port: 54275
+1652356034440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652356036842	Marionette	INFO	Stopped listening on port 54275
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
