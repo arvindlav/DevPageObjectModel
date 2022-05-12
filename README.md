@@ -7,3 +7,4 @@ Code separation – Keep test and locators separately, makes our code clean, ea
 Single source of the repository – all the locators are stored in one place. Tests become short and optimized as we can reuse locators and page object methods
 Readability – improves significantly and makes it easy for new team members to start writing tests by following the existing structure
 
+![image](https://user-images.githubusercontent.com/17341586/168093245-fd2376ab-11b2-47a2-aed0-774036b9b2e9.png)
